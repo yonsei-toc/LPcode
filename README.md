@@ -162,13 +162,15 @@ Use the `run.sh` script to execute the experiments.
 
 ## 🖊 Citation
 ```text
-@misc{park2025detectionllmparaphrasedcodeidentification,
-      title={Detection of LLM-Paraphrased Code and Identification of the Responsible LLM Using Coding Style Features}, 
-      author={Shinwoo Park and Hyundong Jin and Jeong-won Cha and Yo-Sub Han},
-      year={2025},
-      eprint={2502.17749},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2502.17749}, 
+@article{park2025detecting,
+    title = {Detecting code paraphrased by large language models using coding style features},
+    author = {Shinwoo Park and Hyundong Jin and Jeong-won Cha and Yo-Sub Han},
+    journal = {Engineering Applications of Artificial Intelligence},
+    year = {2025},    
+    volume = {162},
+    pages = {112454},
+    issn = {0952-1976},
+    doi = {https://doi.org/10.1016/j.engappai.2025.112454},
+    url = {https://www.sciencedirect.com/science/article/pii/S0952197625024856}
 }
 ```
